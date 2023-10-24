@@ -1,7 +1,7 @@
 ---------------------- Product ---------------------->
 
     - Project description:
-      The project has been developed with React native in the frontend and 
+      The project has been developed with React in the frontend and 
       Spring Boot in the backend. All data are persisted using the H2 database
       of springboot allowing us to share all the data via an API call handle by Axios 
       The user can do a simple CRUD of a product which content: id, name, description,
