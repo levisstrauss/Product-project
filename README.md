@@ -1,7 +1,7 @@
 ---------------------- Product ---------------------->
 
     - Project description:
-      The project has been developed with React in the front and 
+      This project has been developed with React in the front and 
       Spring Boot in the backend. All data are persisted using the H2 database
       of spring boot allowing us to share all the data via an API call handled by Axios 
       The user can do a simple CRUD of a product with content: ID, name, description,
@@ -22,7 +22,7 @@
 --------
     - Functionalities:
       The backend and the front end are completely separated and communicate via an API call.
-      The image upload by the user is first sent to firebase storage and then the link
+      The image upload by the user is first sent to Firebase storage and then the link
       is sent back to be rendered in the frontend via API call.
     
 
